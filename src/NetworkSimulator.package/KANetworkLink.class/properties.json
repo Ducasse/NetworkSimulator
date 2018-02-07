@@ -6,9 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"address",
-		"outgoingLinks"
+		"source",
+		"destination"
 	],
-	"name" : "KANetworkNode",
+	"name" : "KANetworkLink",
 	"type" : "normal"
 }
