@@ -4,5 +4,5 @@ initializeSource: source
 	payload: anObject
 	
 	sourceAddress := source.
-	destinationAddress := destinationAddress.
+	destinationAddress := destination.
 	payload := anObject
