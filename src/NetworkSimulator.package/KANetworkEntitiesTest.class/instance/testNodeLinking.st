@@ -5,5 +5,4 @@ testNodeLinking
 	node2 := KANetworkNode withAddress: #address2.
 	link := KANetworkLink from: node1 to: node2.
 	link attach.
-	self halt.
 	self assert: (node1 hasLinkTo: node2)
