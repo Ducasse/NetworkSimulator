@@ -8,7 +8,8 @@
 	"instvars" : [
 		"address",
 		"outgoingLinks",
-		"arrivedPackets"
+		"arrivedPackets",
+		"loopback"
 	],
 	"name" : "KANetworkNode",
 	"type" : "normal"
