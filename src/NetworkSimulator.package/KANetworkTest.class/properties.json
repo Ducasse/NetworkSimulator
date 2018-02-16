@@ -5,7 +5,11 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "KANetworkEntitiesTest",
+	"instvars" : [
+		"net",
+		"hub",
+		"alone"
+	],
+	"name" : "KANetworkTest",
 	"type" : "normal"
 }
