@@ -4,4 +4,4 @@ receive: aPacket from: aLink
         ifTrue: [
             self consume: aPacket.
             arrivedPackets add: aPacket ]
-        ifFalse: [ self notYetImplemented ]
+        ifFalse: [ self forward: aPacket from: aLink ]
