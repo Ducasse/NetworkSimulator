@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "KANetworkNode",
+	"category" : "NetworkSimulator-Extensions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"supply",
+		"tray"
+	],
+	"name" : "KANetworkPrinter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "KANetworkNode",
+	"category" : "NetworkSimulator-Extensions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KANetworkServer",
+	"type" : "normal"
+}
